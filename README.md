@@ -7,6 +7,7 @@ This project is developed by using MERN stack . This project is covering all CUR
 ![wss3](https://user-images.githubusercontent.com/122023927/211209213-46e9abdd-d0da-4350-8df4-8db4c51b80f9.PNG)
 ![wss4](https://user-images.githubusercontent.com/122023927/211209216-d7b9898f-c95e-478c-9920-da9b914be81f.PNG)
 
-#Key Features
-User Authentication Developed using MERN stack technology
-All complete CURD operations
+# Key Features
+User Authentication Developed using MERN stack technology.
+# 
+All complete CURD operations.
